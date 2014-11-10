@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Vitter Ad"
+date:   2014-11-10 15:33:19
+---
+<iframe width="560" height="315" src="//www.youtube.com/embed/rTf3VDsWzj4" frameborder="0" allowfullscreen></iframe>
+
+After viewing the video, please [click here](https://lsucommunications.qualtrics.com/SE/?SID=SV_dolk4yWdw71ioUR?ViewedVideo=A) to take a brief survey.

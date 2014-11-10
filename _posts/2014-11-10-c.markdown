@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Family Matters"
+date:   2014-11-10 15:33:19
+---
+<iframe width="560" height="315" src="//www.youtube.com/embed/kCrF0_OiGQA" frameborder="0" allowfullscreen></iframe>
+
+After viewing the video, please [click here](https://lsucommunications.qualtrics.com/SE/?SID=SV_dolk4yWdw71ioUR?ViewedVideo=C) to take a brief survey.
