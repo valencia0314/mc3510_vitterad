@@ -5,4 +5,4 @@ date:   2014-11-10 15:33:19
 ---
 <iframe width="560" height="315" src="//www.youtube.com/embed/KN4aErumTtQ" frameborder="0" allowfullscreen></iframe>
 
-After viewing the video, please [click here](https://lsucommunications.qualtrics.com/SE/?SID=SV_dolk4yWdw71ioUR?ViewedVideo=B) to take a brief survey.
+After viewing the video, please [click here](https://jfe.qualtrics.com/form/SV_dolk4yWdw71ioUR?ViewedVideo=B) to take a brief survey.
